@@ -4,9 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2014139865_PER
+namespace _2014139865_ENT
 {
-    public class Class1
+    public enum TipoCarro
     {
+        Automovil, Bus, NoDefinido
     }
 }
