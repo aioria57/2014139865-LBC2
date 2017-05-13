@@ -8,6 +8,7 @@ namespace _2014139865_ENT
 {
     public class Volante
     {
+        public int VolanteId { get; set; }
         public string NumSerie { get; set; }
     }
 }

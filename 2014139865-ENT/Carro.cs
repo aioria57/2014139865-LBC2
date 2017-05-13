@@ -18,6 +18,16 @@ namespace _2014139865_ENT
         public TipoCarro TipoCarro { get; set; }
 
 
+        public int CarroId { get; set; }
+        public string NumSerieMotor { get; set; }
+        public string NumSerieChasis { get; set; }
+        public int EnsambladoraId { get; set; }
+        public Ensambladora Ensambladora { get; set; }
+       
+        public int VolanteId { get; set; }
+        public int ParabrisasId { get; set; }
+        public int PropietarioId { get; set; }
+
         public Carro()
         {
             Llantas = new List<Llanta>();
@@ -37,6 +47,6 @@ namespace _2014139865_ENT
             TipoCarro = tipoCarro;
         }
 
-        public string NumSerieChasis { get; set; }
+       
     }
 }

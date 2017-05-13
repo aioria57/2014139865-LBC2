@@ -8,6 +8,8 @@ namespace _2014139865_ENT
 {
     public class Parabrisas
     {
+        public int ParabrisasId { get; set; }
         public string NumSerie { get; set; }
+        public int CarroId { get; set; }
     }
 }
