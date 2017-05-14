@@ -4,13 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2014139865_ENT
+namespace _2014139865_ENT.Entities
 {
-    public class Cinturon
+    public class Parabrisas
     {
-        public int CinturonId { get; set; }
+        public int ParabrisasId { get; set; }
         public string NumSerie { get; set; }
-        public int Metraje { get; set; }
-
+        public int CarroId { get; set; }
     }
 }

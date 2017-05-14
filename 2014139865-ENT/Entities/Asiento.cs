@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2014139865_ENT
+namespace _2014139865_ENT.Entities
 {
    public class Asiento
     {

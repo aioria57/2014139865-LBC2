@@ -1,4 +1,6 @@
 ﻿using _2014139865_ENT;
+using _2014139865_ENT.Entities;
+using _2014139865_PER.EntityTypeConfigurations;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
@@ -22,8 +24,29 @@ namespace _2014139865_PER
         public DbSet<Propietario> Propietario { get; set; }
         public DbSet<Volante> Volante{ get; set; }
 
+
+
+        protected override void OnModelCreating(DbModelBuilder modelBuilder)
+        {
+            modelBuilder.Configurations.Add(new AsientoConfiguration());
+            modelBuilder.Configurations.Add(new AutomovilConfiguration());
+            modelBuilder.Configurations.Add(new BusConfiguration());
+            modelBuilder.Configurations.Add(new CarroConfiguration());
+            modelBuilder.Configurations.Add(new CinturonConfiguration());
+            modelBuilder.Configurations.Add(new EnsambladoraConfiguration());
+            modelBuilder.Configurations.Add(new LlantaConfiguration());
+            modelBuilder.Configurations.Add(new ParabrisasConfiguration());
+            modelBuilder.Configurations.Add(new PropietarioConfiguration());
+            modelBuilder.Configurations.Add(new VolanteConfiguration());
+
+            base.OnModelCreating(modelBuilder);
+        }
     }
 
 
 
 }
+
+
+
+
