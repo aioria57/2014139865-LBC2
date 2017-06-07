@@ -10,6 +10,9 @@ namespace _2014139865_PER.Repositories
 {
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : class
     {
+        protected readonly EnsambladoraDbContex _Context;
+
+
         void IRepository<TEntity>.Add(TEntity entity)
         {
             throw new NotImplementedException();

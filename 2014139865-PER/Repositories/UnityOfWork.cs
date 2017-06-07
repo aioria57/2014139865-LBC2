@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 namespace _2014139865_PER.Repositories
 {
     public class UnityOfWork : IUnityOfWork
-
     {
         private readonly EnsambladoraDbContex _Context;
 
@@ -97,6 +96,11 @@ namespace _2014139865_PER.Repositories
         public int SaveChanges()
         {
             return _Context.SaveChanges();
+        }
+
+        public void StateModified(object Entity)
+        {
+            _Context.Entry(Entity).State = System.Data.Entity.EntityState.Modified;
         }
 
 

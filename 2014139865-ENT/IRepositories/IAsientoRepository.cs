@@ -9,5 +9,6 @@ namespace _2014139865_ENT.IRepositories
 {
     public interface IAsientoRepository : IRepository<Asiento>
     {
+
     }
 }
