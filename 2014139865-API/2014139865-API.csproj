@@ -605,20 +605,20 @@
     <Content Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\2011103413-ENT\2014139865-ENT.csproj">
-      <Project>{998eff4e-8778-4357-b97b-0bd64bfb3f66}</Project>
-      <Name>2014139865-ENT</Name>
-    </ProjectReference>
-    <ProjectReference Include="..\2011103413-PER\2014139865-PER.csproj">
-      <Project>{b03707c2-ff31-44a5-bacd-9b2ff6afe3f5}</Project>
-      <Name>2014139865-PER</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Scripts\jquery-3.1.1.min.map" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\2014139865-ENT\2014139865-ENT.csproj">
+      <Project>{998eff4e-8778-4357-b97b-0bd64bfb3f66}</Project>
+      <Name>2014139865-ENT</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\2014139865-PER\2014139865-PER.csproj">
+      <Project>{b03707c2-ff31-44a5-bacd-9b2ff6afe3f5}</Project>
+      <Name>2014139865-PER</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -92,7 +92,7 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\2011103413-ENT\2014139865-ENT.csproj">
+    <ProjectReference Include="..\2014139865-ENT\2014139865-ENT.csproj">
       <Project>{998eff4e-8778-4357-b97b-0bd64bfb3f66}</Project>
       <Name>2014139865-ENT</Name>
     </ProjectReference>
