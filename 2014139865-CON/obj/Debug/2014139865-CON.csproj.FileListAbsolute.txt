@@ -1,12 +1,6 @@
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\bin\Debug\2011103413-CON.exe.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\bin\Debug\2011103413-CON.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\bin\Debug\2011103413-CON.pdb
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\obj\Debug\2014139865-CON.csprojResolveAssemblyReference.cache
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\obj\Debug\2011103413-CON.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-CON\obj\Debug\2011103413-CON.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\bin\Debug\2011103413-CON.exe.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\bin\Debug\2011103413-CON.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\bin\Debug\2011103413-CON.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\obj\Debug\2014139865-CON.csprojResolveAssemblyReference.cache
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\obj\Debug\2011103413-CON.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-CON\obj\Debug\2011103413-CON.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\bin\Debug\2014139865-CON.exe.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\bin\Debug\2014139865-CON.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\bin\Debug\2014139865-CON.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\obj\Debug\2014139865-CON.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\obj\Debug\2014139865-CON.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-CON\obj\Debug\2014139865-CON.pdb

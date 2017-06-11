@@ -7,8 +7,8 @@
     <ProjectGuid>{B03707C2-FF31-44A5-BACD-9B2FF6AFE3F5}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_2011103413_PER</RootNamespace>
-    <AssemblyName>2011103413-PER</AssemblyName>
+    <RootNamespace>_2014139865_PER</RootNamespace>
+    <AssemblyName>2014139865-PER</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

@@ -86,8 +86,6 @@ namespace _2014139865_MVC
             }
             return manager;
         }
-
-        
     }
 
     // Configure el administrador de inicios de sesión que se usa en esta aplicación.

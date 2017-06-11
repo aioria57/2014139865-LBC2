@@ -1,212 +1,106 @@
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\csc.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\csc.exe.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\csc.rsp
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\csi.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\csi.rsp
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.AppContext.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\vbc.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\vbc.exe.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\vbc.rsp
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-MVC.dll.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-MVC.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-MVC.pdb
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-ENT.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-PER.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Antlr3.Runtime.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\EntityFramework.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.Web.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.ApplicationInsights.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Newtonsoft.Json.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.Web.Common.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.Web.Mvc.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Owin.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Helpers.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Mvc.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Optimization.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Razor.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\WebActivatorEx.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\WebGrease.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-ENT.pdb
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-PER.pdb
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\2011103413-PER.dll.config
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\EntityFramework.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\EntityFramework.SqlServer.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.Web.Common.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Ninject.Web.Mvc.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Helpers.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Mvc.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Optimization.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.Razor.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Antlr3.Runtime.pdb
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Newtonsoft.Json.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.ApplicationInsights.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\Microsoft.AI.Web.xml
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.Helpers.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.Mvc.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.Optimization.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.Razor.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.WebPages.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\obj\Debug\2014139865-MVC.csprojResolveAssemblyReference.cache
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\obj\Debug\2011103413-MVC.dll
-C:\Users\JairoBrian\Downloads\2011103413-LC2-master\2011103413-LC2-master\2011103413-SLN\2011103413-MVC\obj\Debug\2011103413-MVC.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\csc.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\csc.exe.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\csc.rsp
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\csi.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\csi.rsp
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.AppContext.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.Collections.Immutable.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.IO.FileSystem.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\System.Reflection.Metadata.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\vbc.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\vbc.exe.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\vbc.rsp
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\VBCSCompiler.exe
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\roslyn\VBCSCompiler.exe.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-MVC.dll.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-MVC.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-MVC.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-ENT.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-PER.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Antlr3.Runtime.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\EntityFramework.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\EntityFramework.SqlServer.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.Agent.Intercept.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.DependencyCollector.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.Web.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.WindowsServer.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.ApplicationInsights.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.Core.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.Owin.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.Cookies.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.OAuth.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Web.Infrastructure.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Newtonsoft.Json.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.Web.Common.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.Web.Mvc.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Owin.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Helpers.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Mvc.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Optimization.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Razor.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.Deployment.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.Razor.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\WebActivatorEx.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\WebGrease.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-ENT.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-PER.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\2011103413-PER.dll.config
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\EntityFramework.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\EntityFramework.SqlServer.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.Core.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AspNet.Identity.Owin.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.Cookies.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.Owin.Security.OAuth.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.Web.Common.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Ninject.Web.Mvc.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Helpers.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Mvc.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Optimization.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.Razor.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.Deployment.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\System.Web.WebPages.Razor.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Antlr3.Runtime.pdb
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Newtonsoft.Json.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.ApplicationInsights.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.DependencyCollector.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.WindowsServer.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\Microsoft.AI.Web.xml
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.Helpers.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.Mvc.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.Optimization.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.Razor.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.WebPages.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\obj\Debug\2014139865-MVC.csprojResolveAssemblyReference.cache
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\obj\Debug\2011103413-MVC.dll
-C:\Users\JairoBrian\Documents\Visual Studio 2017\Projects\2014139865-LBC2\2014139865-MVC\obj\Debug\2011103413-MVC.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\csc.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\csc.exe.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\csc.rsp
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\csi.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\csi.rsp
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.AppContext.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\vbc.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\vbc.exe.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\vbc.rsp
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-MVC.dll.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-MVC.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-MVC.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-ENT.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-PER.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Antlr3.Runtime.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\EntityFramework.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\EntityFramework.SqlServer.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.Web.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Newtonsoft.Json.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.Web.Common.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.Web.Mvc.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Owin.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Helpers.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Mvc.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Optimization.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Razor.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\WebActivatorEx.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\WebGrease.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-ENT.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-PER.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\2014139865-PER.dll.config
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\EntityFramework.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\EntityFramework.SqlServer.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.Web.Common.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Ninject.Web.Mvc.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Helpers.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Mvc.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Optimization.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.Razor.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Antlr3.Runtime.pdb
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Newtonsoft.Json.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\Microsoft.AI.Web.xml
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.Razor.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\obj\Debug\2014139865-MVC.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\obj\Debug\2014139865-MVC.dll
+C:\Users\Carlos Roberto\Desktop\2014139610-LC3-LC4\2014139610-SLN\2014139865-MVC\obj\Debug\2014139865-MVC.pdb

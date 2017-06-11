@@ -7,8 +7,8 @@
     <ProjectGuid>{998EFF4E-8778-4357-B97B-0BD64BFB3F66}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_2011103413_ENT</RootNamespace>
-    <AssemblyName>2011103413-ENT</AssemblyName>
+    <RootNamespace>_2014139865_ENT</RootNamespace>
+    <AssemblyName>2014139865-ENT</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

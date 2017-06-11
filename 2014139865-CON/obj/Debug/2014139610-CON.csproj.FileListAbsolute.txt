@@ -1,0 +1,6 @@
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\bin\Debug\2014139610-CON.exe.config
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\bin\Debug\2014139610-CON.exe
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\bin\Debug\2014139610-CON.pdb
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\obj\Debug\2014139610-CON.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\obj\Debug\2014139610-CON.exe
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-CON\obj\Debug\2014139610-CON.pdb

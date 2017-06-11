@@ -1,0 +1,17 @@
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\2014139610-PER.dll.config
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\2014139610-PER.dll
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\2014139610-PER.pdb
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\2014139610-ENT.dll
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\EntityFramework.dll
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\2014139610-ENT.pdb
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\EntityFramework.xml
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\2014139610-PER.csprojResolveAssemblyReference.cache
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\_2014139610_PER.Migrations.InitialModel.resources
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\_2014139610_PER.Migrations.InitialModel2.resources
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\_2014139610_PER.Migrations.InitialModel4.resources
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\_2014139610_PER.Migrations.InitialModel5.resources
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\2014139610-PER.csproj.GenerateResource.Cache
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\2014139610-PER.dll
+C:\Users\Carlos Roberto\Desktop\2011103413-LC2-master\2011103413-SLN\2014139610-PER\obj\Debug\2014139610-PER.pdb
